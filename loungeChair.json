@@ -1,0 +1,162 @@
+[
+  {
+    "id": "lc1",
+    "name": "Modern Lounge Chair",
+    "description": "A modern lounge chair with a sleek design.",
+    "price": 300,
+    "discount": 0.12,
+    "pictureUrl": "https://i5.walmartimages.com/seo/Top-Leather-Lounge-Chair-with-Ottoman-Mid-Century-Recline-Accent-Chair-Upholstered-for-Living-Room_f1a6be0e-de9a-4efb-8bd9-2ff8cec701b2.54cb79ab87c6d1bc5cfe7dee59847a60.jpeg"
+  },
+  {
+    "id": "lc2",
+    "name": "Classic Lounge Chair",
+    "description": "A classic lounge chair with wooden arms.",
+    "price": 350,
+    "discount": 0.15,
+    "pictureUrl": "https://static-01.daraz.com.bd/p/e5201c5393dd14b159770180c9910394.jpg"
+  },
+  {
+    "id": "lc3",
+    "name": "Luxury Lounge Chair",
+    "description": "A luxurious lounge chair with premium materials.",
+    "price": 500,
+    "discount": 0.2,
+    "pictureUrl": "https://mozaikdesign.com/wp-content/uploads/2023/06/vitra-eames-lounge-chair-ottoman-ambiance-011.jpg"
+  },
+  {
+    "id": "lc4",
+    "name": "Vintage Lounge Chair",
+    "description": "A vintage-style lounge chair with a tufted back.",
+    "price": 400,
+    "discount": 0.18,
+    "pictureUrl": "https://image.architonic.com/sto3-2/20262196/lead-arcit18.jpeg"
+  },
+  {
+    "id": "lc5",
+    "name": "Contemporary Lounge Chair",
+    "description": "A contemporary lounge chair with sleek lines.",
+    "price": 320,
+    "discount": 0.14,
+    "pictureUrl": "https://i5.walmartimages.com/seo/ESSENTIAL-LOUNGER-Outdoor-Chair-Lounge-Chair-Adjustable-5-Position-with-Cushions-Retractable-Foot-Rest-Steel-Frame-Material-Wicker-Rattan-Blue_83a818a7-5848-4ee4-bdc4-8db0fb088b77.a31acbab62f13729846e0834b7b4ca40.jpeg"
+  },
+  {
+    "id": "lc6",
+    "name": "Designer Lounge Chair",
+    "description": "A designer lounge chair with a unique silhouette.",
+    "price": 450,
+    "discount": 0.16,
+    "pictureUrl": "https://dm4c9mjc2jvtf.cloudfront.net/product-media/3P6M/3200/2400/vitra-eames-lounge-chair-Phlox-lifestyle-3200.webp"
+  },
+  {
+    "id": "lc7",
+    "name": "Reclining Lounge Chair",
+    "description": "A reclining lounge chair with adjustable back and footrest.",
+    "price": 550,
+    "discount": 0.22,
+    "pictureUrl": "https://www.homesdirect365.co.uk/images/gloria-lounge-chair-p53286-68760_zoom.jpg"
+  },
+  {
+    "id": "lc8",
+    "name": "Outdoor Lounge Chair",
+    "description": "A weather-resistant lounge chair for outdoor use.",
+    "price": 280,
+    "discount": 0.1,
+    "pictureUrl": "https://www.takeaseat.sg/wp-content/uploads/2021/05/Lounge-Chair-4.jpg"
+  },
+  {
+    "id": "lc9",
+    "name": "Leather Lounge Chair",
+    "description": "A luxurious leather lounge chair with a classic design.",
+    "price": 600,
+    "discount": 0.25,
+    "pictureUrl": "https://cimmermann.uk/cdn/shop/articles/eames_2_1600x.jpg?v=1652267586"
+  },
+  {
+    "id": "lc10",
+    "name": "Mid-Century Lounge Chair",
+    "description": "A mid-century modern lounge chair with iconic styling.",
+    "price": 400,
+    "discount": 0.15,
+    "pictureUrl": "https://modern1furniture.com/wp-content/uploads/2023/04/metropol-upholstered-italian-lounge-chair-by-formenti-1.jpg"
+  },
+  {
+    "id": "lc11",
+    "name": "High-Back Lounge Chair",
+    "description": "A high-back lounge chair with supportive design.",
+    "price": 375,
+    "discount": 0.14,
+    "pictureUrl": "https://www.2modern.com/cdn/shop/collections/gus-hilary-lounge-chair.jpg?v=1694464364"
+  },
+  {
+    "id": "lc12",
+    "name": "Swivel Lounge Chair",
+    "description": "A swivel lounge chair with 360-degree rotation.",
+    "price": 425,
+    "discount": 0.16,
+    "pictureUrl": "https://cdn.connox.com/m/100035/684195/media/Vitra/2023/Vitra-Lounge-Chair-Ottoman-poliert-Kirschbaum-Nubia-creme-sand-Situation.jpg"
+  },
+  {
+    "id": "lc13",
+    "name": "Padded Lounge Chair",
+    "description": "A lounge chair with extra padding for maximum comfort.",
+    "price": 390,
+    "discount": 0.12,
+    "pictureUrl": "https://www.isho.com/storage/media/gC7wamerK7UFIVRvvZRzsqKFsIGKqHV3LYb6VS3x.jpeg"
+  },
+  {
+    "id": "lc14",
+    "name": "Wooden Frame Lounge Chair",
+    "description": "A lounge chair with a sturdy wooden frame.",
+    "price": 350,
+    "discount": 0.1,
+    "pictureUrl": "https://m.media-amazon.com/images/I/61ZTM0NTyhS._AC_SL1000_.jpg"
+  },
+  {
+    "id": "lc15",
+    "name": "Armless Lounge Chair",
+    "description": "An armless lounge chair with a minimalist design.",
+    "price": 300,
+    "discount": 0.08,
+    "pictureUrl": "https://www.home-designing.com/wp-content/uploads/2018/12/Red-Lounge-Chair-Stainless-Steel-Legs-Arne-Jacobsen-Style-Egg-Chair-600x800.jpg"
+  },
+  {
+    "id": "lc16",
+    "name": "Chesterfield Lounge Chair",
+    "description": "A Chesterfield-inspired lounge chair with deep button tufting.",
+    "price": 550,
+    "discount": 0.2,
+    "pictureUrl": "https://eurekaergonomic.com/cdn/shop/files/Eureka_Ergonomic_Chloe_Comfort_Rocking_Lounge_Chair.jpg?v=1721965988"
+  },
+  {
+    "id": "lc17",
+    "name": "Adjustable Lounge Chair",
+    "description": "A lounge chair with adjustable backrest and leg support.",
+    "price": 480,
+    "discount": 0.18,
+    "pictureUrl": "https://images.hermanmiller.group/m/2cb3f49756b75233/W-KNO_7876_100454617_honey_chrome_v1_001.png?auto=format&mediaId=7BD343D5-6923-4A04-B602B1EC66215195&rect=.0982%2C.1057%2C.8701%2C.8701&auto=format&w=1000&q=40"
+  },
+  {
+    "id": "lc18",
+    "name": "Scandinavian Lounge Chair",
+    "description": "A Scandinavian-inspired lounge chair with clean lines.",
+    "price": 410,
+    "discount": 0.14,
+    "pictureUrl": "https://www.yankodesign.com/images/design_news/2021/09/auto-draft/09_ru_cuongnguyen_loungechair.jpg"
+  },
+  {
+    "id": "lc19",
+    "name": "Fabric Lounge Chair",
+    "description": "A lounge chair upholstered in soft fabric for a cozy feel.",
+    "price": 375,
+    "discount": 0.12,
+    "pictureUrl": "https://urbanmood.sg/cdn/shop/products/louise2_800x.jpg?v=1610630272"
+  },
+  {
+    "id": "lc20",
+    "name": "Eco-Friendly Lounge Chair",
+    "description": "A lounge chair made from sustainable materials.",
+    "price": 450,
+    "discount": 0.15,
+    "pictureUrl": "https://danishdesignco.com.sg/wp-content/uploads/2021/04/Erik-Jorgensen-Corona-Classic-Lounge-Chair.jpg"
+  }
+]
