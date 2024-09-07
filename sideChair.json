@@ -1,0 +1,162 @@
+[
+  {
+    "id": "sc1",
+    "name": "Simple Side Chair",
+    "description": "A simple side chair with a minimalistic design.",
+    "price": 75,
+    "discount": 0.05,
+    "pictureUrl": "https://m.media-amazon.com/images/I/715jjU2Qo+L._AC_SL1000_.jpg"
+  },
+  {
+    "id": "sc2",
+    "name": "Classic Side Chair",
+    "description": "A classic wooden side chair perfect for dining rooms.",
+    "price": 85,
+    "discount": 0.08,
+    "pictureUrl": "https://optimise2.assets-servd.host/fine-elk/production/images/Lea-side-chair-side-view-InsideOutContracts.jpg?w=1200&q=80&fm=webp&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1566211043&s=159e57b17d9bc7fcdd3bfa4f2cd9c98d"
+  },
+  {
+    "id": "sc3",
+    "name": "Comfort Side Chair",
+    "description": "A comfortable side chair with plush cushions.",
+    "price": 90,
+    "discount": 0.1,
+    "pictureUrl": "https://www.thosmoser.com/wp-content/uploads/TM_Chair_BSC_0721_studio_3qua_hr-2100x1990-e75fc105-f5ff-4325-8d62-8bacc53a5daf.jpg"
+  },
+  {
+    "id": "sc4",
+    "name": "Modern Side Chair",
+    "description": "A modern side chair with a sleek design.",
+    "price": 120,
+    "discount": 0.12,
+    "pictureUrl": "https://media.istockphoto.com/id/182729395/photo/contemporary-beech-cushioned-chair-side-view-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=RPnKI6rFMdH9Z-7bgjR9hWiDIJLrZZ59iCAJ4fLcyVA="
+  },
+  {
+    "id": "sc5",
+    "name": "Rustic Side Chair",
+    "description": "A rustic side chair with a natural wood finish.",
+    "price": 80,
+    "discount": 0.07,
+    "pictureUrl": "https://media.istockphoto.com/id/177346788/photo/wooden-chair.jpg?s=612x612&w=0&k=20&c=XQdWq-l8Fi2jh5RtTdup52ukcXoow4fz6Uo6Uv_eMh0="
+  },
+  {
+    "id": "sc6",
+    "name": "Vintage Side Chair",
+    "description": "A vintage-style side chair with elegant detailing.",
+    "price": 100,
+    "discount": 0.1,
+    "pictureUrl": "https://www.geigerfurniture.com/content/dam/ggrcom/page_assets/products/deft_chair/ggr_th_deft_chair_side_chairs_hv.jpg.rendition.480.480.jpg"
+  },
+  {
+    "id": "sc7",
+    "name": "Industrial Side Chair",
+    "description": "A robust industrial-style side chair with metal accents.",
+    "price": 95,
+    "discount": 0.09,
+    "pictureUrl": "https://woodsala.com/cdn/shop/files/1_8c4ac18e-199c-4caf-a955-0fa4a8527b0f.jpg?v=1703148348&width=3000"
+  },
+  {
+    "id": "sc8",
+    "name": "Elegant Side Chair",
+    "description": "An elegant side chair with intricate woodwork.",
+    "price": 110,
+    "discount": 0.11,
+    "pictureUrl": "https://images-cdn.ubuy.co.in/633fecabcac94728f4764eb3-huimo-arm-chair-accent-chair-wooden.jpg"
+  },
+  {
+    "id": "sc9",
+    "name": "Contemporary Side Chair",
+    "description": "A contemporary side chair with a modern silhouette.",
+    "price": 115,
+    "discount": 0.12,
+    "pictureUrl": "https://www.megaishop.com/wp-content/uploads/2021/08/eames-plastic-side-chair-1.jpg"
+  },
+  {
+    "id": "sc10",
+    "name": "Art Deco Side Chair",
+    "description": "A stylish side chair with an Art Deco design.",
+    "price": 130,
+    "discount": 0.15,
+    "pictureUrl": "https://m.media-amazon.com/images/I/51xiO7wj55L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": "sc11",
+    "name": "Modern Wood Side Chair",
+    "description": "A modern side chair crafted from solid wood.",
+    "price": 105,
+    "discount": 0.08,
+    "pictureUrl": "https://www.kirklandmuseum.org/wp-content/uploads/2019/02/DA_Gehry_WIGGLE.jpg"
+  },
+  {
+    "id": "sc12",
+    "name": "Designer Side Chair",
+    "description": "A designer side chair with a unique frame and seat.",
+    "price": 150,
+    "discount": 0.18,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTignc41BvZNfkK36x7XLcuWr1NrJLcBXYKxw&s"
+  },
+  {
+    "id": "sc13",
+    "name": "Mid-Century Side Chair",
+    "description": "A mid-century inspired side chair with a timeless design.",
+    "price": 120,
+    "discount": 0.1,
+    "pictureUrl": "https://www.saloom.com/wp-content/uploads/2021/09/100SU-Angle-view.jpg"
+  },
+  {
+    "id": "sc14",
+    "name": "Luxury Side Chair",
+    "description": "A luxurious side chair with leather upholstery.",
+    "price": 200,
+    "discount": 0.18,
+    "pictureUrl": "https://nuansdesign.com/wp-content/uploads/2020/09/True-Design-Tao-Side-Chair-Upholstered-x-Nuans-TA-1004-5.jpg"
+  },
+  {
+    "id": "sc15",
+    "name": "Classic Padded Side Chair",
+    "description": "A classic side chair with padded cushions for extra comfort.",
+    "price": 90,
+    "discount": 0.07,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHr4MUxzN2lvOwUofKwFTRPWkObGr8k0qvw&s"
+  },
+  {
+    "id": "sc16",
+    "name": "Folding Side Chair",
+    "description": "A practical folding side chair, perfect for extra seating.",
+    "price": 70,
+    "discount": 0.05,
+    "pictureUrl": "https://www.furnitureworld.co.uk/images/products/standard/14605_109689.jpg?t=1690897935"
+  },
+  {
+    "id": "sc17",
+    "name": "Minimalist Side Chair",
+    "description": "A minimalist side chair with a sleek and simple design.",
+    "price": 80,
+    "discount": 0.06,
+    "pictureUrl": "https://www.geigerfurniture.com/content/dam/ggrcom/page_assets/products/bumper_side_chair/ggr_mh_prd_ovw_bumper_side_chair.jpg.rendition.480.360.jpg"
+  },
+  {
+    "id": "sc18",
+    "name": "Wicker Side Chair",
+    "description": "A side chair with a wicker seat and back, perfect for outdoor use.",
+    "price": 85,
+    "discount": 0.07,
+    "pictureUrl": "https://theodorealexander.sirv.com/ProductPhotos/SC4/SC40011.1DJS_main_1.jpg?profile=new-ProductDetailGalleryDesktop&w=800"
+  },
+  {
+    "id": "sc19",
+    "name": "High-Back Side Chair",
+    "description": "A high-back side chair with a supportive design.",
+    "price": 110,
+    "discount": 0.09,
+    "pictureUrl": "https://cdn.designtoscano.com/product_images/english-chippendale-side-chair-1-af1007/606d78f95fc37c00194c34cb/zoom.jpg?c=1681492200"
+  },
+  {
+    "id": "sc20",
+    "name": "Retro Side Chair",
+    "description": "A retro-inspired side chair with bold colors.",
+    "price": 100,
+    "discount": 0.12,
+    "pictureUrl": "https://assets.nickscali.com/media/catalog/product/cache/6cc0596e45ce2f5b15d1cad8a3f995a2/4/0/4000x2500px_vansu_dining_chair_1020_v2.jpg"
+  }
+]
