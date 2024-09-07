@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rc1",
+    "name": "Classic Rocking Chair",
+    "description": "A classic wooden rocking chair with a vintage design.",
+    "price": 150,
+    "discount": 0.1,
+    "pictureUrl": "https://i5.walmartimages.com/seo/Mainstays-Outdoor-Wood-Porch-Rocking-Chair-Natural-Yellow-Color-Weather-Resistant-Finish_ed855032-41a9-45ca-8b4c-d48e87bfa81f.76db275b9597e17ad03b2d58ed9bb936.jpeg"
+  },
+  {
+    "id": "rc2",
+    "name": "Modern Rocking Chair",
+    "description": "A sleek modern rocking chair with a metal frame.",
+    "price": 200,
+    "discount": 0.15,
+    "pictureUrl": "https://admin.regalfurniturebd.com/storage/uploads/fullsize/2023-12/rch-306.jpg"
+  },
+  {
+    "id": "rc3",
+    "name": "Comfort Rocking Chair",
+    "description": "An ultra-comfortable rocking chair with extra padding.",
+    "price": 180,
+    "discount": 0.12,
+    "pictureUrl": "https://admin.regalfurniturebd.com/storage/uploads/fullsize/2021-11/rch-5.jpg"
+  },
+  {
+    "id": "rc4",
+    "name": "Vintage Rocking Chair",
+    "description": "A vintage-style rocking chair made from reclaimed wood.",
+    "price": 220,
+    "discount": 0.2,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QAgMD2V3O446CX1BvOu0Y2UMXutJ9w4ZWQ&s"
+  },
+  {
+    "id": "rc5",
+    "name": "Contemporary Rocking Chair",
+    "description": "A contemporary rocking chair with a sleek design.",
+    "price": 210,
+    "discount": 0.14,
+    "pictureUrl": "https://m.media-amazon.com/images/I/71-lRLGIJ6L._AC_SL1500_.jpg"
+  },
+  {
+    "id": "rc6",
+    "name": "Outdoor Rocking Chair",
+    "description": "A weather-resistant rocking chair perfect for outdoor use.",
+    "price": 175,
+    "discount": 0.1,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7kz4mfYMSPdeD8M5IhmN9d1Qb9dfgoHV6sw&s"
+  },
+  {
+    "id": "rc7",
+    "name": "Classic Oak Rocking Chair",
+    "description": "A traditional oak rocking chair with a comfortable design.",
+    "price": 195,
+    "discount": 0.08,
+    "pictureUrl": "https://media.licdn.com/dms/image/D4D12AQFvTEvd3jQ3Uw/article-cover_image-shrink_720_1280/0/1698008569215?e=2147483647&v=beta&t=zQFhEJlfCb9dkJHLOfiqZ_3DvfRSxrRPD2p3JYa_IZQ"
+  },
+  {
+    "id": "rc8",
+    "name": "Modern Leather Rocking Chair",
+    "description": "A modern rocking chair with leather upholstery.",
+    "price": 240,
+    "discount": 0.15,
+    "pictureUrl": "https://admin.regalfurniturebd.com/storage/uploads/fullsize/2021-11/rch-6.jpg"
+  },
+  {
+    "id": "rc9",
+    "name": "Minimalist Rocking Chair",
+    "description": "A minimalist rocking chair with a sleek, simple design.",
+    "price": 130,
+    "discount": 0.05,
+    "pictureUrl": "https://www.leekes.co.uk/media/catalog/product/cache/41de4231f41aba4009fa4e5cf5d5b0d6/1/1/1123229_3l.jpg"
+  },
+  {
+    "id": "rc10",
+    "name": "Eco-Friendly Rocking Chair",
+    "description": "An eco-friendly rocking chair made from sustainable materials.",
+    "price": 160,
+    "discount": 0.07,
+    "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Moravsk%C3%A1_galerie_02_-_Thonet-Mundus_k%C5%99eslo.jpg/640px-Moravsk%C3%A1_galerie_02_-_Thonet-Mundus_k%C5%99eslo.jpg"
+  },
+  {
+    "id": "rc11",
+    "name": "Elegant Rocking Chair",
+    "description": "An elegant rocking chair with fine wood craftsmanship.",
+    "price": 250,
+    "discount": 0.18,
+    "pictureUrl": "https://www.leekes.co.uk/media/catalog/product/cache/41de4231f41aba4009fa4e5cf5d5b0d6/1/1/1123229_3l.jpg"
+  },
+  {
+    "id": "rc12",
+    "name": "Rustic Rocking Chair",
+    "description": "A rustic rocking chair with a natural wood finish.",
+    "price": 190,
+    "discount": 0.11,
+    "pictureUrl": "https://sika-design.com/cdn/shop/products/Monet_gyngestol_jute_4840_ffb4e431-2e1e-4ec0-8c98-8efbfb1e7fa9_1200x.jpg?v=1647918827"
+  },
+  {
+    "id": "rc13",
+    "name": "Classic Walnut Rocking Chair",
+    "description": "A classic rocking chair made from rich walnut wood.",
+    "price": 230,
+    "discount": 0.13,
+    "pictureUrl": "https://cdn20.pamono.com/p/g/1/6/1607734_e9otjola2n/vintage-rocking-chair-in-walnut-1950s-image-1.jpg"
+  },
+  {
+    "id": "rc14",
+    "name": "Modern Fabric Rocking Chair",
+    "description": "A modern rocking chair with a fabric seat and back.",
+    "price": 200,
+    "discount": 0.1,
+    "pictureUrl": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/master_image/Hickory-108.png"
+  },
+  {
+    "id": "rc15",
+    "name": "Elegant Fabric Rocking Chair",
+    "description": "An elegant fabric rocking chair with a comfortable design.",
+    "price": 210,
+    "discount": 0.09,
+    "pictureUrl": "https://m.media-amazon.com/images/I/71-lRLGIJ6L._AC_SL1500_.jpg"
+  },
+  {
+    "id": "rc16",
+    "name": "Wooden Slat Rocking Chair",
+    "description": "A rocking chair with a wooden slat back and seat.",
+    "price": 170,
+    "discount": 0.08,
+    "pictureUrl": "https://www.isho.com/storage/media/jEW9b2OsMyEBXPoDK92mc5XoBdl30RBt0tjVuCcZ.jpeg"
+  },
+  {
+    "id": "rc17",
+    "name": "Modern Padded Rocking Chair",
+    "description": "A modern rocking chair with padded arms and seat.",
+    "price": 215,
+    "discount": 0.12,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFMtMjM9aQGm3LDy2zRf8ZQitnWd86GX4dA&s"
+  },
+  {
+    "id": "rc18",
+    "name": "Designer Rocking Chair",
+    "description": "A designer rocking chair with a unique frame and design.",
+    "price": 300,
+    "discount": 0.2,
+    "pictureUrl": "https://admin.regalfurniturebd.com/storage/uploads/fullsize/2023-12/rch-206.jpg"
+  },
+  {
+    "id": "rc19",
+    "name": "Luxury Leather Rocking Chair",
+    "description": "A luxury rocking chair with high-quality leather.",
+    "price": 350,
+    "discount": 0.25,
+    "pictureUrl": "https://www.furniturelibrary.com/wp-content/uploads/2021/01/rocking-chair02.jpg"
+  },
+  {
+    "id": "rc20",
+    "name": "Wooden Rocking Chair",
+    "description": "A wooden rocking chair with a curved design.",
+    "price": 160,
+    "discount": 0.1,
+    "pictureUrl": "https://i.etsystatic.com/30457381/r/il/e10354/4169856402/il_570xN.4169856402_4wo1.jpg"
+  }
+]
